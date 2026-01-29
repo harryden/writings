@@ -20,6 +20,14 @@ Putting an economic value on nature to fight climate change. Covers both the pot
 
 Three case studies on fairness in tech: AI in US courts, cleaner cooking methods in India, and who actually benefits from electric vehicles. Looks at the tensions between environmental goals and social justice.
 
+### DAT410 - Design of AI Systems (Spring 2025)
+
+**[Frame-Based Dialogue System](https://github.com/harryden/dialogue-system)**
+
+GUS-inspired dialogue system using hierarchical frames, demons, and servants. Handles weather, restaurant, and transit queries through recursive slot-filling architecture.
+
+Group project with Elvina Fahlgren. Scored 100/100.
+
 ## Waterloo
 
 ### CS651 - Data-Intensive Distributed Analytics (Fall 2024)
