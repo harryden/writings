@@ -20,6 +20,14 @@ Putting an economic value on nature to fight climate change. Covers both the pot
 
 Three case studies on fairness in tech: AI in US courts, cleaner cooking methods in India, and who actually benefits from electric vehicles. Looks at the tensions between environmental goals and social justice.
 
+### TDA518 - Professional Development and Technical Communication (Spring 2024)
+
+**[Flutter State Management Framework Comparison](academic/chalmers-tda518-flutter-framework-comparison.pdf)**
+
+Comparative analysis of Bloc, Riverpod, and GetX frameworks for Flutter state management. Evaluates ease of state definition, manipulation, and consumption through practical implementation and architectural analysis.
+
+Conference paper format. Co-authored with Casper Christiansson and Rikard Roos.
+
 ### DAT410 - Design of AI Systems (Spring 2025)
 
 **[Frame-Based Dialogue System](https://github.com/harryden/dialogue-system)**
