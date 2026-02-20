@@ -36,7 +36,7 @@ GUS-inspired dialogue system using hierarchical frames, demons, and servants. Ha
 
 Group project with Elvina Fahlgren. Scored 100/100.
 
-**[Automated News Headline Generation with BART and LoRA](academic/chalmers-dat410-headline-generation.pdf)**
+**[Automated News Headline Generation with BART and LoRA](https://github.com/harryden/bart-headline-generation)**
 
 Fine-tuned BART transformer model for generating news headlines from article descriptions. Used Low-Rank Adaptation (LoRA) for parameter-efficient training on 210k HuffPost articles. Achieved ~50% BLEU score while significantly reducing computational overhead.
 
