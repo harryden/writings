@@ -46,7 +46,7 @@ Group project with Elvina Fahlgren. Scored 100/100.
 
 ### CS651 - Data-Intensive Distributed Analytics (Fall 2024)
 
-**[Naive Bayes Classifier for Sentiment Analysis](academic/waterloo-cs651-naivebayes-sentiment-analysis.pdf)**
+**[Naive Bayes Classifier for Sentiment Analysis](https://github.com/harryden/sparkling-water-loo)**
 
 Implemented Naive Bayes from scratch using Spark for sentiment analysis on 50k IMDb movie reviews. Achieved 85.1% accuracy with distributed computing and Laplace smoothing.
 
