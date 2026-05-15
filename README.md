@@ -42,6 +42,12 @@ Fine-tuned BART transformer model for generating news headlines from article des
 
 Group project with Elvina Fahlgren. Scored 100/100.
 
+### TMS088 - Financial Time Series (Spring 2025)
+
+**[Commodity Price Forecasting](https://github.com/harryden/commodities-price-forecasting)**
+
+Rolling-origin evaluation framework for forecasting commodity prices with random walk, ARIMA, and GARCH models. Built the extrapolation pipeline and validation methodology for a group project on commodity time series.
+
 ## Waterloo
 
 ### CS651 - Data-Intensive Distributed Analytics (Fall 2024)
